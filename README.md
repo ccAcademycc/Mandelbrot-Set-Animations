@@ -22,21 +22,32 @@ These four scripts create frames of the Mandelbrot set, where the maximum number
      
 This script creates a Mandelbrot zoom into the specified point, called 'center'.
 
+-----------------------------------------------------------------------------------------------       
+
   6. julia_fixed_point.py
      
 This script creates an image of the Julia set for a fixed complex number, 'c'.
+
+-----------------------------------------------------------------------------------------------       
 
   7. julia_change_c_animation.py
       
 This script generates frames of Julia sets while changing the value of c across frames.
 
+-----------------------------------------------------------------------------------------------       
+
   8. julia_sets_collection.py
       
 This script creates frames displaying a grid of Julia sets, with the grid resolution increasing progressively from frame to frame.
 
+-----------------------------------------------------------------------------------------------       
+
   9. julia_sets_collection_zoom.py
       
 This script generates frames of a grid of Julia sets with a fixed grid size, while scaling each individual Julia set across frames.
+
+-----------------------------------------------------------------------------------------------       
+
 
 Feel free to adjust the following parameters as needed:
   - Resolution
@@ -47,8 +58,8 @@ Feel free to adjust the following parameters as needed:
   - etc.
 
 
-####
-Important: 
+-----------------------------------------------------------------------------------------------       
+### Important: 
   - Each script generates a folder containing only the corresponding frames.
   - All images are rendered in 8K by default.
 The reason for rendering in 8K is that it provides (in my opinion) the best balance of quality and file size, resulting in a high-quality 4K video when downscaled.
