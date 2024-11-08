@@ -18,7 +18,7 @@ These four scripts create frames of the Mandelbrot set, where the maximum number
 
   5. mandelbrot_zoom.py
      
-This script creates a Mandelbrot zoom into the specified point, 'center'.
+This script creates a Mandelbrot zoom into the specified point, called 'center'.
 
   6. julia_fixed_point.py
      
