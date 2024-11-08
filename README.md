@@ -50,9 +50,9 @@ This script generates frames of a grid of Julia sets with a fixed grid size, whi
 ### Important: 
   - Each script generates a folder containing only the corresponding frames.
   - All images are rendered in 8K by default.
-The reason for rendering in 8K is that it provides (in my opinion) the best balance of quality and file size, resulting in a high-quality 4K video when downscaled.
+It provides (in my opinion) the best balance of quality and file size when the frames are rendered in 8K and then downscaled to a 4K video.
 
-Here is how you can achieve this: 
+Here is how you can achieve this:
 
 I.    Pick a specific file and open it in PyCharm or another IDE.
 
