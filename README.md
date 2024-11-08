@@ -61,7 +61,7 @@ III.  Install FFmpeg and run the corresponding command in the terminal (dependin
 
 -----------------------------------------------------------------------------------------------       
        1.  ffmpeg -framerate 10 -i mandelbrot_increase_iterations_0/%05d.png -vf "scale=3840:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p mandelbrot_increase_iterations_0.mp4
-       2.
+       2.  ffmpeg -framerate 30 -i mandelbrot_increase_iterations_1/%05d.png -vf "scale=3840:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p mandelbrot_increase_iterations_1.mp4
        3. 
        4.         
        5.
