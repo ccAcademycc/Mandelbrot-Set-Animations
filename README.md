@@ -14,7 +14,7 @@ The scripts serve different purposes. Here is a brief overview:
   3. mandelbrot_increase_iterations_2.py
   4. mandelbrot_increase_iterations_3.py
      
-These scripts create frames of the Mandelbrot set, 
+These four scripts create frames of the Mandelbrot set, 
 increasing the maximum number of iterations used to compute the Mandelbrot sequence by 1 with each frame.
 
   5. mandelbrot_zoom.py
