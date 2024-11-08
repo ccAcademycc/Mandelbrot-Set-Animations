@@ -1,7 +1,7 @@
 # Mandelbrot-Set-Animations
 
 The provided Python scripts (currently 9) can be used to create your own animations of the Mandelbrot set or Julia sets.
-Each folder contains a Python script and a video showcasing the animation that can be generated with that script.
+Each video shows the animation that can be generated with the corresponding script.
 
 All scripts use the Numba package with CUDA, which requires an NVIDIA graphics card. 
 This enables much faster computation of frames.
