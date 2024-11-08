@@ -47,18 +47,7 @@ This script creates frames displaying a grid of Julia sets, with the grid resolu
 This script generates frames of a grid of Julia sets with a fixed grid size, while scaling each individual Julia set across frames.
 
 -----------------------------------------------------------------------------------------------       
-
-
-Feel free to adjust the following parameters as needed:
-  - Resolution
-  - Colors
-  - Number of colors
-  - Maximum number of iterations
-  - Center point
-  - etc.
-
-
------------------------------------------------------------------------------------------------       
+      
 ### Important: 
   - Each script generates a folder containing only the corresponding frames.
   - All images are rendered in 8K by default.
