@@ -30,6 +30,8 @@ These four scripts create frames of the Mandelbrot set, where the maximum number
 ![mandelbrot_zoom](https://github.com/user-attachments/assets/91ef08c2-bea0-4036-85c6-3d0ae5e71939)
 
 # 6. mandelbrot_zoom_2.py
+
+![mandelbrot_zoom_2](https://github.com/user-attachments/assets/330c3ccf-ae98-438d-bf1c-9474001c1c7f)
      
 These scripts create a Mandelbrot zoom into (or out of) a specified point called 'center'.
 
