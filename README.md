@@ -9,8 +9,8 @@ All scripts use the 'Numba' package with 'CUDA'. This enables much faster comput
 The scripts serve different purposes. Here is a brief overview:
 
 -----------------------------------------------------------------------------------------------       
-  1. mandelbrot_increase_iterations_0.py
-# 1     
+ # 1. mandelbrot_increase_iterations_0.py
+
 ![Image title] (https://github.com/ccAcademycc/Mandelbrot-Set-Animations/blob/main/mandelbrot_increase_iterations_0.gif)
     
   3. mandelbrot_increase_iterations_1.py
