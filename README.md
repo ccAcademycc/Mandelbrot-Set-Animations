@@ -22,20 +22,20 @@ The scripts serve different purposes. Here is a brief overview:
  
  ![mandelbrot_increase_iterations_3](https://github.com/user-attachments/assets/0c54cfef-e7cd-49d8-8bd9-a2b7dbef2af4)
 
-     
 These four scripts create frames of the Mandelbrot set, where the maximum number of iterations used to compute the Mandelbrot sequence is increased by 1 with each frame.
 
 -----------------------------------------------------------------------------------------------       
  # 5. mandelbrot_zoom.py
 
  ![mandelbrot_zoom](https://github.com/user-attachments/assets/91ef08c2-bea0-4036-85c6-3d0ae5e71939)
-
      
 This script creates a Mandelbrot zoom into the specified point, called 'center'.
 
 -----------------------------------------------------------------------------------------------       
 
-  6. julia_fixed_point.py
+ # 6. julia_fixed_point.py
+
+ ![julia_fixed_point](https://github.com/user-attachments/assets/229c6ba1-0f8e-4ba6-9c15-8a430cae382a)
      
 This script creates an image of the Julia set for a fixed complex number, 'c'.
 
