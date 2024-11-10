@@ -41,7 +41,9 @@ This script creates an image of the Julia set for a fixed complex number, 'c'.
 
 -----------------------------------------------------------------------------------------------       
 
-  7. julia_change_c_animation.py
+ # 7. julia_change_c_animation.py
+
+ ![julia_change_c_animation](https://github.com/user-attachments/assets/62893236-7821-44c2-9a8f-675eb81601d7)
       
 This script generates frames of Julia sets while changing the value of c across frames.
 
