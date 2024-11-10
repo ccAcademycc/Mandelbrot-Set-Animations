@@ -49,7 +49,9 @@ This script generates frames of Julia sets while changing the value of c across 
 
 -----------------------------------------------------------------------------------------------       
 
-  8. julia_sets_collection.py
+ # 8. julia_sets_collection.py
+
+ ![julia_sets_collection](https://github.com/user-attachments/assets/fedf2a8e-9100-4530-9a4b-a02318fdc744)
       
 This script creates frames displaying a grid of Julia sets, with the grid resolution increasing progressively from frame to frame.
 
