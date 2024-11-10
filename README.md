@@ -15,7 +15,10 @@ The scripts serve different purposes. Here is a brief overview:
 ![mandelbrot_increase_iterations_1](https://github.com/user-attachments/assets/0ac6025d-1c43-4456-b7a2-808db344321a)
   
   3. mandelbrot_increase_iterations_2.py
-  4. mandelbrot_increase_iterations_3.py
+
+![mandelbrot_increase_iterations_2](https://github.com/user-attachments/assets/97bd9225-0ed9-4ca1-a840-1d6f66dc98bf)
+
+  5. mandelbrot_increase_iterations_3.py
      
 These four scripts create frames of the Mandelbrot set, where the maximum number of iterations used to compute the Mandelbrot sequence is increased by 1 with each frame.
 
