@@ -88,6 +88,6 @@ III.  Install FFmpeg and run the corresponding command in the terminal (dependin
        7.  +++ Only one frame +++
        8.  ffmpeg -framerate 60 -i julia_change_c_animation/%05d.png -vf "scale=3840:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p julia_change_c_animation.mp4
        9.  ffmpeg -framerate 1 -i julia_sets_collection/%05d.png -vf "scale=2160:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p julia_sets_collection.mp4
-       10.  ffmpeg -framerate 40 -i julia_sets_collection_zoom/%05d.png -vf "scale=2160:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p julia_sets_collection_zoom.mp4
+       10. ffmpeg -framerate 40 -i julia_sets_collection_zoom/%05d.png -vf "scale=2160:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p julia_sets_collection_zoom.mp4
 -----------------------------------------------------------------------------------------------       
 
