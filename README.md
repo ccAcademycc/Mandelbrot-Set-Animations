@@ -72,11 +72,11 @@ It provides (in my opinion) the best balance of quality and file size when the f
 
 Here is how you can achieve this:
 
-I.    Pick a specific file and open it in PyCharm or another IDE.
+  - Pick a specific file and open it in PyCharm or another IDE.
+ 
+  - Run the file to create the frames.
 
-II.   Run the file to create the frames.
-
-III.  Install FFmpeg and run the corresponding command in the terminal (depending on which frames you rendered):
+  - Install FFmpeg and run the corresponding command in the terminal (depending on which frames you rendered):
 
 -----------------------------------------------------------------------------------------------       
        1.  ffmpeg -framerate 10 -i mandelbrot_increase_iterations_0/%05d.png -vf "scale=3840:2160" -c:v libx264 -crf 18 -preset slow -pix_fmt yuv420p mandelbrot_increase_iterations_0.mp4
