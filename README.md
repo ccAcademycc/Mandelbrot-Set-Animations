@@ -10,7 +10,7 @@ The scripts serve different purposes. Here is a brief overview:
 
 -----------------------------------------------------------------------------------------------       
   1. mandelbrot_increase_iterations_0.py
-     https://github.com/ccAcademycc/Mandelbrot-Set-Animations/blob/main/mandelbrot_increase_iterations_0.gif
+     ![Image title] (https://github.com/ccAcademycc/Mandelbrot-Set-Animations/blob/main/mandelbrot_increase_iterations_0.gif)
     
   3. mandelbrot_increase_iterations_1.py
   4. mandelbrot_increase_iterations_2.py
