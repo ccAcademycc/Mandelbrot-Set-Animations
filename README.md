@@ -71,11 +71,8 @@ This script generates frames of a grid of Julia sets with a fixed grid size, whi
 It provides (in my opinion) the best balance of quality and file size when the frames are rendered in 8K and then downscaled to a 4K video.
 
 Here is how you can achieve this:
-
   - Pick a specific file and open it in PyCharm or another IDE.
- 
   - Run the file to create the frames.
-
   - Install FFmpeg and run the corresponding command in the terminal (depending on which frames you rendered):
 
 -----------------------------------------------------------------------------------------------       
