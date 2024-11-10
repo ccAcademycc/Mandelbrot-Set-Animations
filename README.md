@@ -19,7 +19,7 @@ These four scripts create frames of the Mandelbrot set, where the maximum number
 
 ![mandelbrot_increase_iterations_2](https://github.com/user-attachments/assets/97bd9225-0ed9-4ca1-a840-1d6f66dc98bf)
  
-![mandelbrot_increase_iterations_3](https://github.com/user-attachments/assets/0c54cfef-e7cd-49d8-8bd9-a2b7dbef2af4)
+![mandelbrot_increase_iterations_3](https://github.com/user-attachments/assets/49ab03fb-f419-4ef9-928c-229d415bc037)
 
 -----------------------------------------------------------------------------------------------       
 5. mandelbrot_zoom.py
