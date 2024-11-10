@@ -6,67 +6,63 @@ All scripts use the 'Numba' package with 'CUDA'. This enables much faster comput
 The scripts serve different purposes. Here is a brief overview:
 
 -----------------------------------------------------------------------------------------------       
-# 1. mandelbrot_increase_iterations_0.py
+1. mandelbrot_increase_iterations_0.py
+2. mandelbrot_increase_iterations_1.py
+3. mandelbrot_increase_iterations_2.py
+4. mandelbrot_increase_iterations_3.py
 
+These four scripts create frames of the Mandelbrot set, where the maximum number of iterations used to compute the Mandelbrot sequence is increased by 1 with each frame.
+   
 ![mandelbrot_increase_iterations_0](https://github.com/user-attachments/assets/3cae6733-70d7-4bc7-bd52-08a50b96ab25)
 
-# 2. mandelbrot_increase_iterations_1.py
-
 ![mandelbrot_increase_iterations_1](https://github.com/user-attachments/assets/0ac6025d-1c43-4456-b7a2-808db344321a)
-  
-# 3. mandelbrot_increase_iterations_2.py
 
 ![mandelbrot_increase_iterations_2](https://github.com/user-attachments/assets/97bd9225-0ed9-4ca1-a840-1d6f66dc98bf)
-
-# 4. mandelbrot_increase_iterations_3.py
  
 ![mandelbrot_increase_iterations_3](https://github.com/user-attachments/assets/0c54cfef-e7cd-49d8-8bd9-a2b7dbef2af4)
 
-These four scripts create frames of the Mandelbrot set, where the maximum number of iterations used to compute the Mandelbrot sequence is increased by 1 with each frame.
-
 -----------------------------------------------------------------------------------------------       
-# 5. mandelbrot_zoom.py
+5. mandelbrot_zoom.py
+6. mandelbrot_zoom_2.py
+
+These scripts create a Mandelbrot zoom into (or out of) a specified point called 'center'.
 
 ![mandelbrot_zoom](https://github.com/user-attachments/assets/91ef08c2-bea0-4036-85c6-3d0ae5e71939)
 
-# 6. mandelbrot_zoom_2.py
-
 ![mandelbrot_zoom_2](https://github.com/user-attachments/assets/c063d07b-c8fa-4a2d-a42e-3fa2dee291e9)
      
-These scripts create a Mandelbrot zoom into (or out of) a specified point called 'center'.
-
 -----------------------------------------------------------------------------------------------       
 
-# 7. julia_fixed_point.py
+7. julia_fixed_point.py
+   
+This script creates an image of the Julia set for a fixed complex number, 'c'.
 
 ![julia_fixed_point](https://github.com/user-attachments/assets/229c6ba1-0f8e-4ba6-9c15-8a430cae382a)
      
-This script creates an image of the Julia set for a fixed complex number, 'c'.
-
 -----------------------------------------------------------------------------------------------       
 
-# 8. julia_change_c_animation.py
+8. julia_change_c_animation.py
+
+This script generates frames of Julia sets while changing the value of c across frames.
 
 ![julia_change_c_animation](https://github.com/user-attachments/assets/62893236-7821-44c2-9a8f-675eb81601d7)
       
-This script generates frames of Julia sets while changing the value of c across frames.
-
 -----------------------------------------------------------------------------------------------       
 
-# 9. julia_sets_collection.py
+9. julia_sets_collection.py
 
-![julia_sets_collection](https://github.com/user-attachments/assets/af5c894a-28cf-4b75-8843-6158a6c6f1a1)
-      
 This script creates frames displaying a grid of Julia sets, with the grid resolution increasing progressively from frame to frame.
 
+![julia_sets_collection](https://github.com/user-attachments/assets/af5c894a-28cf-4b75-8843-6158a6c6f1a1)
+
 -----------------------------------------------------------------------------------------------       
 
-# 10. julia_sets_collection_zoom.py
+10. julia_sets_collection_zoom.py
+
+This script generates frames of a grid of Julia sets with a fixed grid size, while scaling each individual Julia set across frames.
 
 ![julia_sets_collection_zoom](https://github.com/user-attachments/assets/cc2ef61a-460e-481b-aa84-7790c09de2e5)
       
-This script generates frames of a grid of Julia sets with a fixed grid size, while scaling each individual Julia set across frames.
-
 -----------------------------------------------------------------------------------------------       
       
 ### Important: 
