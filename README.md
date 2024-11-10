@@ -9,13 +9,10 @@ All scripts use the 'Numba' package with 'CUDA'. This enables much faster comput
 The scripts serve different purposes. Here is a brief overview:
 
 -----------------------------------------------------------------------------------------------       
- # 1. mandelbrot_increase_iterations_0.py
-
-![github] (https://ccAcademycc/Mandelbrot-Set-Animations/blob/main/mandelbrot_increase_iterations_0.gif)
-    
-  3. mandelbrot_increase_iterations_1.py
-  4. mandelbrot_increase_iterations_2.py
-  5. mandelbrot_increase_iterations_3.py
+  1. mandelbrot_increase_iterations_0.py    
+  2. mandelbrot_increase_iterations_1.py
+  3. mandelbrot_increase_iterations_2.py
+  4. mandelbrot_increase_iterations_3.py
      
 These four scripts create frames of the Mandelbrot set, where the maximum number of iterations used to compute the Mandelbrot sequence is increased by 1 with each frame.
 
